@@ -1,2 +1,2 @@
-# techno-tweet
-demo at WLUG
+# techno-test
+TechnoTweet 2019 Hosting demo
